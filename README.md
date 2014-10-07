@@ -2,11 +2,11 @@
 
 Basic architecture of Proxymate Android application
 
-Proxymate is a social network mixing pseudonimity and trust validated by real life interactions.
+Proxymate is a social network using pseudonymity trusted by real life interactions.
 
 ## Installation
 
-No build file is provided voluntarily. This is only to show an old version of the source code. 
+No build file is provided voluntarily. This repository is only intended to present an old version of the source code.
 
 ## Tests
 
