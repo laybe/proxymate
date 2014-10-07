@@ -10,8 +10,9 @@ No build file is provided voluntarily. This is only to show an old version of th
 
 ## Tests
 
-Unit tests are available at: laybe/proxymate_unit_tests
-Integration tests are available at: laybe/proxymate_integration_tests
+Unit tests are available at: https://github.com/laybe/proxymate_unit_tests
+
+Integration tests are available at: https://github.com/laybe/proxymate_integration_tests
 
 ## Contributors
 
