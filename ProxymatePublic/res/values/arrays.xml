@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="drawer_items">
+        <item>@string/drawer_news</item>
+        <item>@string/drawer_whatnow</item>
+        <item>@string/drawer_calendar</item>
+    </array>
+    
+    <array name="logged_in_drawer_items">
+        <item>@string/drawer_news</item>
+        <item>@string/drawer_whatnow</item>
+        <item>@string/drawer_calendar</item>
+        <item>@string/drawer_profile</item>
+    </array>
+
+</resources>
