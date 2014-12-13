@@ -14,10 +14,6 @@ Unit tests are available at: https://github.com/laybe/proxymate_unit_tests
 
 Integration tests are available at: https://github.com/laybe/proxymate_integration_tests
 
-## Contributors
-
-Arnaud Oisel
-
 ## License
 
 The MIT License (MIT)
